@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 Disallow: /old-version/  # Example: Block outdated content
-Sitemap: http://led-lighting-oman.alwejhagroup.com/sitemap.xml
+Sitemap: http://alarm-systems-oman.alwejhagroup.com/sitemap.xml
