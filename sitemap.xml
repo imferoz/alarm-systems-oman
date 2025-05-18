@@ -1,25 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <!-- Homepage -->
   <url>
-    <loc>http://alarm-systems-oman.alwejhagroup.com/</loc>
-    <lastmod>2024-06-01</lastmod>
+    <loc>http://led-lighting-oman.alwejhagroup.com/</loc>
+    <lastmod>2024-06-10</lastmod>
     <priority>1.0</priority>
-  </url>
-  <!-- Key Service Pages -->
-  <url>
-    <loc>http://alarm-systems-oman.alwejhagroup.com/home-security/</loc>
-    <lastmod>2024-05-15</lastmod>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>http://alarm-systems-oman.alwejhagroup.com/commercial-security/</loc>
-    <lastmod>2024-05-10</lastmod>
-    <priority>0.9</priority>
-  </url>
-  <!-- Supporting Pages -->
-  <url>
-    <loc>http://alarm-systems-oman.alwejhagroup.com/contact/</loc>
-    <priority>0.7</priority>
   </url>
 </urlset>
